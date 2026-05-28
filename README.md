@@ -1,1 +1,0 @@
-# SentinelShieldSDK_iOS
