@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SentinelShieldSDK",
-            url: "https://github.com/batodiyapramod/SentinelShieldSDK_iOS/tree/fdef87aa39a47877dd05320d2a1c5562d53593d5/releases/download/1.0.0/SentinelShieldSDK-1.0.0.xcframework.zip",
+            url: "https://github.com/batodiyapramod/SentinelShieldSDK/releases/download/1.0.0/SentinelShieldSDK-1.0.0.xcframework.zip",
             checksum: "7714c132af95723292dabf99fd067ac4bec7abacc11673d17f8739b9061fd6c9"
         ),
     ]
